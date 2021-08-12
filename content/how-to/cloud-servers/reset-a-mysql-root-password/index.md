@@ -44,7 +44,7 @@ Run the following command. The ampersand (&) at the end of the command is requir
 
 Run the following command:
 
-    mysql -uroot
+    mysql -u root
 
 ### Set a new MySQL root password
 
